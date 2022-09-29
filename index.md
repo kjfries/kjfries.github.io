@@ -1,17 +1,17 @@
 # Bio
 
-Kevin's work seeks to find unique solutions to society's grand challenges through interdisciplinary research and design. Trained as a civil engineer but with an extensive background in systems engineering and machine learning, Kevin has leveraged his unique expertise to tackle problems in natural resource management, disaster response, hydrometeorology, and economic development.
+Kevin's work seeks to find unique solutions to society's grand challenges through interdisciplinary research and design. Trained as a civil engineer but with an extensive background in systems engineering and machine learning, Kevin has leveraged his unique expertise to tackle problems in natural resource management, disaster response, hydrometeorology, agriculture, and economic development.
 
 ## Education
 **_University of Michigan_**
 - PhD - Civil Engineering
-- MS - Electrical and Computer Engineering - Machinge Learning
+- MS - Electrical and Computer Engineering - Machine Learning
 - MS - Infrastructure Systems Engineering
 
 **_University of Maryland_**
 - BS - Civil and Environmental Engineering, _summa cum laude_
 
-## Experience
+## Experience ([LinkedIn Profile](https://www.linkedin.com/in/kevin-fries/))
 **_Ceres Imaging_**
 - Geospatial Data Scientist
 - Feb 2020 - present
@@ -20,7 +20,7 @@ Kevin's work seeks to find unique solutions to society's grand challenges throug
 - Data Ambassador
 - Jan 2021 - present
 
-**_One Concern_**
+**_One Concern_**`
 - Data Scientist - Flood
 - Apr 2018 - Feb 2020
 
